@@ -3,7 +3,7 @@ This repository showcases my journey of kicking off JS and mastering it with Rea
 
 The TimeLine will be updated below soon :
 
-          1. 
+          1. Basics of JS
           2.
           3.
           4.
