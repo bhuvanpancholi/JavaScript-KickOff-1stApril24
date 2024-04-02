@@ -45,3 +45,5 @@ Internal Script: JavaScript code can also be placed within the <script> tag insi
 </head>
 
 These are just a couple of ways to include JavaScript in web pages. Depending on the project's size, complexity, and maintainability requirements, developers may choose different approaches or even utilize external JavaScript files linked via the <script> tag.
+
+Author : Bhuvan
